@@ -1,0 +1,14 @@
+* {
+    text-align: center;
+}
+
+.btn {
+    background-color: black;
+    color: #fff;
+    height: 38px;
+    padding: 0 40px;
+    border-style: none;
+    font-size:24px;
+}
+
+
